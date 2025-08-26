@@ -10,7 +10,7 @@
 - 🌱 Currently learning: Machine Learning & Data Structures
 - 📊 Skills: Python, Pandas, NumPy, SQL, JavaScript, R, PowerBI
 - 🚀 Interested in: AI, Data Science, Cloud Computing
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/rakesh-g-9a5a4a325) | [Email](mailto:rakee4407@gmail.com)
+- 📫 Reach me: [rakesh-g-9a5a4a325](https://www.linkedin.com/in/rakesh-g-9a5a4a325) | [Email](mailto:rakee4407@gmail.com)
 
 ---
 
